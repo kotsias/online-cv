@@ -177,13 +177,14 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    #title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
-      - name: Python & Django
+      - name: C#, .NET
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: SQL
         level: 98%
 
       - name: Angular
@@ -192,11 +193,11 @@ skills:
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Dockers, Kubernetes
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Github, Pipelines, GitHub actions
+        level: 90%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
